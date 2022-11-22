@@ -264,11 +264,11 @@
        font-weight:600;
     }
     .arrow_right {
-        right: 37%;
+        right: 40%;
         transition: .5s;
     }
     .arrow_left {
-        left: 36%;
+        left: 38%;
         transition: .5s;
     }
     .ceo_content {
