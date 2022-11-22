@@ -75,7 +75,7 @@ z-index: 999;
     position: absolute;
     top:78%;
     left:-0%;
-    
+     z-index: -1;
 }
 .banner_topimg{
     position: absolute;
